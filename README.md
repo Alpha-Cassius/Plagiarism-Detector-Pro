@@ -76,5 +76,5 @@ This project is open-source and available for personal and educational use.
 ---
 
 ## 👨‍💻 Author
-Developed by **Alpha Cassius**. 🚀
+Developed by **Vaibhav Pandey**. 🚀
 
